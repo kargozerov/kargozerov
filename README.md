@@ -18,7 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
-[![Love Angular badge](https://img.shields.io/badge/angular-love-blue?logo=angular&angular=love)](https://www.github.com/angular/angular)
+[![Angular badge](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=red)](https://www.github.com/angular/angular)
 ![RxJS](https://img.shields.io/badge/-RxJS-333333?style=flat&logo=ReactiveX&logoColor=e91e63)
 ![NGRX](https://img.shields.io/badge/-NGRX-333333?style=flat&logo=ReactiveX&logoColor=a829c3)
 ![Angular Material](https://img.shields.io/badge/-Material-333333?style=flat&logo=Angular&logoColor=673ab7)
