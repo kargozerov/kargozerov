@@ -25,7 +25,15 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
 <br />
+### 🛠 Tools:
 
+![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=4ca6ff)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![MS TFS](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=TFS&logoColor=4ca6ff)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+
+<br />
 
 [instagram]: https://instagram.com/kargozerov
 [vk]: https://vk.com/kargozerov
