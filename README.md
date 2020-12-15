@@ -17,11 +17,11 @@
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
+[![TypeScript badge](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)](https://github.com/microsoft/TypeScript)
 [![Angular badge](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=red)](https://www.github.com/angular/angular)
 [![RxJS badge](https://img.shields.io/badge/-RxJS-333333?style=flat&logo=ReactiveX&logoColor=e91e63)](https://github.com/ReactiveX/rxjs)
-![NGRX](https://img.shields.io/badge/-NGRX-333333?style=flat&logo=ReactiveX&logoColor=a829c3)
-![Angular Material](https://img.shields.io/badge/-Material-333333?style=flat&logo=Angular&logoColor=673ab7)
+[![NGRX badge](https://img.shields.io/badge/-NGRX-333333?style=flat&logo=ReactiveX&logoColor=a829c3)](https://github.com/ngrx)
+[![Angular Material bage](https://img.shields.io/badge/-Material-333333?style=flat&logo=Angular&logoColor=673ab7)](https://github.com/angular/components)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
 <br />
