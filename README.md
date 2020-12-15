@@ -9,3 +9,6 @@
 
 [<img align="left" alt="kargozerov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kargozerov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+[instagram]: https://instagram.com/kargozerov
+[vk]: https://vk.com/kargozerov
