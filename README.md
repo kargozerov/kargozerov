@@ -9,7 +9,7 @@
 
 [<img align="left" alt="kargozerov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="kargozerov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-<br />
+
 ### 💻 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
@@ -23,8 +23,6 @@
 [![NGRX badge](https://img.shields.io/badge/-NGRX-333333?style=flat&logo=ReactiveX&logoColor=a829c3)](https://github.com/ngrx)
 [![Angular Material bage](https://img.shields.io/badge/-Material-333333?style=flat&logo=Angular&logoColor=673ab7)](https://github.com/angular/components)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-
-<br />
 
 ### 🛠 Tools:
 
