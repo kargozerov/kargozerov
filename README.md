@@ -38,8 +38,8 @@
 
 ### ⚙️ GitHub Analytics
 
-<img height="160em" align="left" alt="kargozerov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kargozerov&theme=radical&show_icons=true" />
-<img height="160em" align="right" alt="kargozerov's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kargozerov&theme=radical&layout=compact" />
+<!-- <img height="160em" align="left" alt="kargozerov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kargozerov&theme=radical&show_icons=true" /> -->
+<img height="160em" align="left" alt="kargozerov's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kargozerov&theme=radical&layout=compact" />
 
 
 [instagram]: https://instagram.com/kargozerov
