@@ -29,10 +29,10 @@
 ### 🛠 Tools:
 
 [![NX badge](https://img.shields.io/badge/-NX-333333?style=flat&logo=NX)](https://github.com/nrwl/nx)&nbsp;
+![NPM](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)&nbsp;
 ![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=4ca6ff)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![NPM](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)&nbsp;
 ![MS TFS](https://img.shields.io/badge/-TFS-333333?style=flat&logo=TFS&logoColor=4ca6ff)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 
