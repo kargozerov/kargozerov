@@ -23,6 +23,7 @@
 [![RxJS badge](https://img.shields.io/badge/-RxJS-333333?style=flat&logo=ReactiveX&logoColor=e91e63)](https://github.com/ReactiveX/rxjs)&nbsp;
 [![NGRX badge](https://img.shields.io/badge/-NGRX-333333?style=flat&logo=ReactiveX&logoColor=a829c3)](https://github.com/ngrx)&nbsp;
 [![Angular Material bage](https://img.shields.io/badge/-Material-333333?style=flat&logo=Angular&logoColor=673ab7)](https://github.com/angular/components)&nbsp;
+[![NestJS badge](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=ReactiveX&logoColor=e91e63)(https://github.com/nestjs/nest)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
 ### 🛠 Tools:
