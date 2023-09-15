@@ -3,7 +3,7 @@
 ## I'm a Frontend Developer!
 
 - 📍 I’m from Russia (Saint Petersburg)
-- 💻 4+ years experience in Front-end development
+- 💻 5+ years experience in Front-end development
 
 <!-- ### 🤝 Connect with me:
 
