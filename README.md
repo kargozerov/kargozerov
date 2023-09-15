@@ -24,7 +24,7 @@
 [![NGRX badge](https://img.shields.io/badge/-NGRX-333333?style=flat&logo=ReactiveX&logoColor=a829c3)](https://github.com/ngrx)&nbsp;
 [![Angular Material bage](https://img.shields.io/badge/-Material-333333?style=flat&logo=Angular&logoColor=673ab7)](https://github.com/angular/components)&nbsp;
 [![NestJS badge](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=NestJS&logoColor=e91e63)](https://github.com/nestjs/nest)&nbsp;
-[![NX badge](https://img.shields.io/badge/-NX-333333?style=flat&logo=NestJS&logoColor=1572B6)](https://github.com/nrwl/nx)&nbsp;
+[![NX badge](https://img.shields.io/badge/-NX-333333?style=flat&logo=NX)](https://github.com/nrwl/nx)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
 ### 🛠 Tools:
